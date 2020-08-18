@@ -1,0 +1,31 @@
+{
+  "destination": [{
+	
+			"location": "remote",
+			"server": "localhost",
+			"port": "2020",
+			"user": "adolfo",
+			"password": "dancer99",
+			"remotePath": "none",
+			"localpath": "none",
+			"outPath": "/Users/adolsanchez/Documents/",
+			"fileName": "uno",
+			"almacen": "almacen001",
+			"accessToken": "APP_USR-1212389216954438-070714-f3ae51fceeda46e5c88927f6b624735a-605143987"
+  },
+{
+	
+			"location": "remote",
+			"server": "localhost",
+			"port": "2020",
+			"user": "adolfo",
+			"password": "dancer99",
+			"remotePath": "none",
+			"localpath": "none",
+			"outPath": "/Users/adolsanchez/Documents/",
+			"fileName": "dos",
+			"almacen": "almacen002",
+			"accessToken": "TEST-1212389216954438-070714-8c8893b11c4e61193f1ba58a8f331a1f-605143987"
+  }  
+  ]
+}
